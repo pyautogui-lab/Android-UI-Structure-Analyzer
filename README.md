@@ -1,1 +1,33 @@
-# Android-UI-Structure-Analyzer
+# Android UI Structure Analyzer
+
+🇯🇵 Japanese documentation: README_JP.md
+
+A Python-based project for analyzing Android-style UI XML structures and extracting UI element information.
+
+## Overview
+
+This tool searches UI elements by resource-id, extracts bounds information, and calculates center coordinates from XML layout data.
+
+## Features
+
+* XML layout analysis
+* UI element search by resource-id
+* Bounds extraction
+* Center coordinate calculation
+
+## Technologies Used
+
+- Python 3
+- Regular Expressions (re)
+- Dataclasses
+- XML Parsing
+
+## Example Output
+
+[1] resource-id: sample.app:id/target_button
+    bounds: (120, 450) - (300, 520)
+    center: (210, 485)
+
+[2] resource-id: sample.app:id/target_button
+    bounds: (400, 800) - (580, 870)
+    center: (490, 835)
