@@ -1,10 +1,8 @@
 # Android UI Structure Analyzer
 
-🇯🇵 Japanese documentation:
-[README_JP.md](README_JP.md)
+🇯🇵 Japanese Documentation: [README_JP.md](README_JP.md)
 
 A Python-based project for analyzing Android-style UI XML structures and extracting UI element information.
-
 ## Overview
 
 This tool searches UI elements by resource-id, extracts bounds information, and calculates center coordinates from XML layout data.
