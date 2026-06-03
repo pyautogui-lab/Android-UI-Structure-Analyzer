@@ -13,13 +13,22 @@ This tool searches UI elements by resource-id, extracts bounds information, and 
 * UI element search by resource-id
 * Bounds extraction
 * Center coordinate calculation
-
 ## Technologies Used
 
-- Python 3
-- Regular Expressions (re)
-- Dataclasses
-- XML Parsing
+* Python 3
+* Regular Expressions (re)
+* Dataclasses
+* XML Parsing
+
+## How to Run
+
+1. Clone this repository.
+2. Make sure `sample_window_dump.xml` is in the same directory as `ui_analyzer.py`.
+3. Run the script:
+
+```bash
+python ui_analyzer.py
+```
 
 ## Example Output
 
