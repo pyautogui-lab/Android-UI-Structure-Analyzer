@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy>
+    <node
+        resource-id="sample.app:id/target_button"
+        bounds="[120,450][300,520]" />
+        
+    <node
+        resource-id="sample.app:id/target_button"
+        bounds="[400,800][580,870]" />
+</hierarchy>
