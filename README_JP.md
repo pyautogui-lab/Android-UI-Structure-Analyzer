@@ -1,6 +1,8 @@
 # Android UI Structure Analyzer
 
-🇺🇸 English documentation: README.md
+🇺🇸 English documentation:
+[README.md](README.md)
+
 
 AndroidスタイルのUI XML構造を解析し、UI要素の情報を抽出するPython製の技術検証プロジェクトです。
 
